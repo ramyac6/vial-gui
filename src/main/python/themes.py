@@ -104,6 +104,26 @@ themes = [
         (QPalette.Disabled, QPalette.Text): "#d9d9d9",
         (QPalette.Disabled, QPalette.Light): "#fabcad",
     }),
+    ("Dark Magic Girl", {
+        QPalette.Window: "#181818",
+        QPalette.WindowText: "#d9d9d9",
+        QPalette.Base: "#181818",
+        QPalette.AlternateBase: "#2c2c2c",
+        QPalette.ToolTipBase: "#363636 ",
+        QPalette.ToolTipText: "#d9d9d9",
+        QPalette.Text: "#d9d9d9",
+        QPalette.Button: "#181818",
+        QPalette.ButtonText: "#d9d9d9",
+        QPalette.BrightText: "#fabcad",
+        QPalette.Link: "#fabcad",
+        QPalette.Highlight: "#fabcad",
+        QPalette.HighlightedText: "#2c2c2c",
+        (QPalette.Active, QPalette.Button): "#181818",
+        (QPalette.Disabled, QPalette.ButtonText): "#d9d9d9",
+        (QPalette.Disabled, QPalette.WindowText): "#d9d9d9",
+        (QPalette.Disabled, QPalette.Text): "#d9d9d9",
+        (QPalette.Disabled, QPalette.Light): "#fabcad",
+    }),
 ]
 
 palettes = dict()
